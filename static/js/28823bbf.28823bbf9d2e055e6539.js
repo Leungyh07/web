@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d21af88"],{be7f:function(e,n,t){"use strict";t.r(n),n.default={title:"平台版本",firstUpdater:{name:"梁永辉"},info:[{version:"1.0.1",date:"2021.05.03",content:[{des:"新增开发人员模式"}]},{version:"1.0.0",date:"2021.05.01",content:[{des:"初始化版本"}]}]}}}]);
