@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d22fd60"],{ea5c:function(e,n,t){"use strict";t.r(n),n.default={title:"web1.0",firstUpdater:{name:"梁永辉"},secondUpdater:{},info:[{version:"1.0.0",date:"2022.05.01",content:[{des:"梦开始的地方"}]}]}}}]);
